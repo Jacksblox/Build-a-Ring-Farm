@@ -1,1 +1,6 @@
-Script made using claude code do whatever yall want to ts. **enjoy** also ***Buy your Executor from vanishhub.com!!!!***
+# BUILD A RING FARM SOURCE
+
+Script made using Claude Code sloppp. Do whatever y'all want with ts.
+
+## Need an Executor?
+👉 **[Vanish Hub](https://vanishhub.com)**
